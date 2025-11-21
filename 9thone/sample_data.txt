@@ -1,0 +1,13 @@
+Confidential internal communication:
+
+Yesterday I received a report from Rakshitha PR about a new client in Bengaluru. 
+She mentioned the client’s details were sensitive — the contact number 9876543210 and 
+email address rakshitha.pr@company.in should not be shared. 
+
+Another employee, Ravi Kumar, also sent a follow-up message from 
+ravi.kumar@xyz.in confirming Aadhaar 123456789012 was verified. 
+This information should only be processed by authorized users 
+while connected to 192.168.1.24 internal network.
+
+End of report.
+His contact is ravi.kumar@xyz.in and phone number 9123456789.
